@@ -37,10 +37,14 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		//more opertaions to come
+	    //more operations to come
+	    //next change
 		new Equals();
 		new Minus();
 		new Plus();
 		new Square();
+		// hier kommen weitere Operationen
+		// 2. Kommentar von W. Bauer
 	}
 
 	private void calculate(String cmdName) {
