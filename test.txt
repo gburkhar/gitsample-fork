@@ -2,3 +2,4 @@ Das ist ein test
 Bugfix #2
 Bugfix #3
 Bugfix #4
+Bugfix #5
